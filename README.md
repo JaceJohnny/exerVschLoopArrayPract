@@ -2,12 +2,12 @@
 
 ## Summary of Steps to Complete (See corresponding sections below.)
 
-- [ ] Fork this assignment so you can work on your own copy.
-- [ ] Complete the assignment using an index.html and .js file and write to console.
-- [ ] Push your changes back to your GitHub repository.
-- [ ] Turn on GitHub Pages for your repository.
-- [ ] Turn in a link to the GitHub Pages site in Canvas.
-- [ ] Turn in a link to your GitHub repository for this assignment in Canvas.
+- [X] Fork this assignment so you can work on your own copy.
+- [X] Complete the assignment using an index.html and .js file and write to console.
+- [X] Push your changes back to your GitHub repository.
+- [X] Turn on GitHub Pages for your repository.
+- [X] Turn in a link to the GitHub Pages site in Canvas.
+- [X] Turn in a link to your GitHub repository for this assignment in Canvas.
 
 ## Link to assignment description
 https://coursework.vschool.io/loops-and-arrays-practice/
